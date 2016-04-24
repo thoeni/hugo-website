@@ -1,0 +1,57 @@
+languageCode = "en-us"
+theme = "hugo-cactus-theme"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://192.168.99.100/"
+canonifyurls = true
+title = "thoeni.io"
+author = "Antonio Troina"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+
+[params]
+	name = "Antonio Troina"
+	description = "Describe your website"
+	bio = "Software Engineer - Technologist - Chef"
+	# Enter optionally your twitter account
+	twitter = "antoniotroina"
+	enableRSS = false
+
+	# Add custom assets with their paths relative to the static folder
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = "home"
+	about = "whoami"
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Deployed to the world in 1983"
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+  socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+  twitter  = "https://www.twitter.com/antoniotroina/"
+  linkedin = "https://www.linkedin.com/in/antoniotroina"
+  github   = "https://www.github.com/thoeni"
