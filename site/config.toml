@@ -11,7 +11,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-74480113-1"
 # Disable comments by leaving disqusShortname empty
-disqusShortname = ""
+disqusShortname = "thoeni-io"
 
 [params]
 	name = "Antonio Troina"
@@ -36,7 +36,7 @@ disqusShortname = ""
 	olderPosts = ""
 	newerPosts = ""
 	readMore = ""
-	copyright = ""
+	copyright = "All rights unreserved..."
 	# Sharing options and author information in posts
 	aboutAuthor = "Deployed to the world in 1983"
 	tweet = ""
