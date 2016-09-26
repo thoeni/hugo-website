@@ -9,7 +9,7 @@ title = "thoeni.io"
 author = "Antonio Troina"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-74480113-1"
 # Disable comments by leaving disqusShortname empty
 disqusShortname = ""
 
