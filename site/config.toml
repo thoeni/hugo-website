@@ -15,7 +15,7 @@ disqusShortname = "thoeni-io"
 
 [params]
 	name = "Antonio Troina"
-	description = "Describe your website"
+	description = "Another blog that the world could do without."
 	bio = "Software Engineer - Technologist - Chef"
 	# Enter optionally your twitter account
 	twitter = "antoniotroina"
@@ -38,7 +38,7 @@ disqusShortname = "thoeni-io"
 	readMore = ""
 	copyright = "All rights unreserved..."
 	# Sharing options and author information in posts
-	aboutAuthor = "Deployed to the world in 1983"
+	aboutAuthor = "Deployed to PROD in 1983"
 	tweet = ""
 	share = ""
 	# 404 page

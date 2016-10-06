@@ -4,18 +4,18 @@ draft = false
 title = "java.net.InetAddress: getLocalHost() slow after MacOS Sierra upgrade?"
 description = "If Java takes forever to getLocalHost after MacOS Sierra upgrade, here's what you can do to fix it!"
 tags = [ "java", "macos", "sierra", "dev" ]
-categories = [ "java", "macos", "sierra", "dev" ]
+categories = [ "java", "macos", "sierra", "dev", "tomcat", "spring" ]
 slug = "macos-sierra-java"
 +++
 
 So, I don't write often mainly because I don't have much to say, but I hope that this, if not interesting, at least will be useful and **save you a lot of time** in troubleshooting.
 
 <h3>Scenario</h3>
-After upgrading to MacOS Sierra, without changing a line of code, my Java application startup time (Tomcat/Spring) went to the roof, like **from 15 seconds** to what, **5 minutes**? Something like that.
+After upgrading to MacOS Sierra, without changing a line of code, my Java application startup time ([Tomcat](http://tomcat.apache.org/)/[Spring](http://spring.io/)) went to the roof, like **from 15 seconds** to what, **5 minutes**? Something like that.
 
 I made few hypothesis, like *MacOS Sierra introduced a new filesystem and it f\*cked up my logging library* or *[csrutil](http://macossierra-slow.com/how-to-disable-sip-rootless-system-integrity-protection/) is locking something for unknown security reasons* or [*let's read all the issues that people had with Sierra so far*](http://macpaw.com/how-to/fix-macos-sierra-problems)...
 
-I'm working on a Java application that, at some point, uses a json encoder for logging: in the template one of the logged fields is the hostname of the machine that is producing the log line which, to be printed, required a crazy amount of time to resolve the hostname *(yes, now that I saw the implementation, I know it could be cached)*. All this has been discovered after a deep debugging session with a colleague.
+I'm working on a Java application that, at some point, uses a json encoder for logging whilst initialising Spring context: in the template one of the logged fields is the hostname of the machine that is producing the log line which, to be printed, required a crazy amount of time to resolve the hostname *(yes, now that I saw the implementation, I know it could be cached)*. All this has been discovered after a deep debugging session with a colleague.
 
 <h3>Diagnosis</h3>
 So, I thought I could write a small Java class to make that specific call, and measure the elapsed time, and then ask to few colleagues to run the same code and compare the results... one single call to the `java.net.InetAddress.getLocalHost()` method took ~5000ms on my machine, and ~8ms on my colleagues'.<br/>
