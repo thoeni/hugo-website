@@ -2,6 +2,10 @@
 date = "2016-06-05T20:00:00Z"
 draft = false
 title = "SoCraTes UK 2016: the passion awakens"
+description = "My enthusiastic report from the amazing SoCraTes UK 2016 experience!"
+tags = [ "software craftsmanship", "engineering", "london", "dev" ]
+categories = [ "software craftsmanship", "engineering", "london", "dev" ]
+slug = "socratesuk-2016"
 +++
 
 {{< figure src="../../images/socratesuk16/SoCraTes_UK.png" class="medium" >}}

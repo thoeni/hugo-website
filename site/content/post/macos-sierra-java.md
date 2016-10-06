@@ -2,6 +2,10 @@
 date = "2016-09-26T20:00:00Z"
 draft = false
 title = "java.net.InetAddress: getLocalHost() slow after MacOS Sierra upgrade?"
+description = "If Java takes forever to getLocalHost after MacOS Sierra upgrade, here's what you can do to fix it!"
+tags = [ "java", "macos", "sierra", "dev" ]
+categories = [ "java", "macos", "sierra", "dev" ]
+slug = "macos-sierra-java"
 +++
 
 So, I don't write often mainly because I don't have much to say, but I hope that this, if not interesting, at least will be useful and **save you a lot of time** in troubleshooting.
