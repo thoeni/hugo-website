@@ -65,4 +65,9 @@ I loved the meetup, which felt more like a small conference. I loved the vibe in
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ANDigital outing to <a href="https://twitter.com/HNLondon">@HNLondon</a>. Looking deranged with glee. <a href="https://twitter.com/andigital">@andigital</a> <a href="https://twitter.com/antoniotroina">@antoniotroina</a> <a href="https://twitter.com/ryan_coughlan">@ryan_coughlan</a> <a href="https://twitter.com/kimritaylor">@kimritaylor</a> <a href="https://twitter.com/hashtag/meetup?src=hash">#meetup</a> <a href="https://twitter.com/hashtag/HNLondon?src=hash">#HNLondon</a> <a href="https://t.co/AYyP4cQKaT">pic.twitter.com/AYyP4cQKaT</a></p>&mdash; Laura Hanna-White (@laurahannawhite) <a href="https://twitter.com/laurahannawhite/status/783731834865811459">October 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+And of course, all the sponsors were great, but a mention for the most creative way to make your entrance goes to the [Monzo](https://twitter.com/monzo) team, flying a small drone to deliver Monzo cards.
+<center>*Here [Simon](https://twitter.com/simonvc) testing the drone during the break...*</center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/monzo">@monzo</a> card flying high! :-) <a href="https://twitter.com/hashtag/HNLondon?src=hash">#HNLondon</a> <a href="https://t.co/cuXCvO28aM">pic.twitter.com/cuXCvO28aM</a></p>&mdash; Antonio Troina (@antoniotroina) <a href="https://twitter.com/antoniotroina/status/783751346184921088">October 5, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 It goes without saying that I'm already looking forward to the next edition which, if we are lucky, will happen in a couple of months!
