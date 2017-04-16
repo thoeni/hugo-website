@@ -30,13 +30,13 @@ disqusShortname = "thoeni-io"
 
 	# Navigation links
 	home = "home"
-	about = "whoami"
+	about = "about"
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
 	readMore = ""
-	copyright = "All rights unreserved..."
+	copyright = "Deployed to PROD in 1983"
 	# Sharing options and author information in posts
 	aboutAuthor = "Deployed to PROD in 1983"
 	tweet = ""
