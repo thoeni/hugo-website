@@ -1,57 +1,48 @@
-languageCode = "en-us"
-theme = "hugo-cactus-theme"
+languageCode = "en-gb"
+theme = "beautifulhugo"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
 baseurl = "https://thoeni.io/"
 canonifyurls = true
-title = "thoeni.io"
+title = "to, err := human()"
 author = "Antonio Troina"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
-# Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-74480113-1"
-# Disable comments by leaving disqusShortname empty
 disqusShortname = "thoeni-io"
 
 [params]
+	subtitle = "Another blog that the world could do without."
+        logo = "images/avatar@8x.png"
+        favicon = "images/favicon.ico"
+        dateFormat = "January 2, 2006"
+        commit = true
+        rss = true
+        comments = true
 	name = "Antonio Troina"
-	description = "Another blog that the world could do without."
-	bio = "Software Engineer - Technologist - Chef"
-	# Enter optionally your twitter account
-	twitter = "antoniotroina"
-	enableRSS = false
+	gcse = "000555443219246452905:kk1yklqhyf4"
 
-	# Add custom assets with their paths relative to the static folder
-	customCSS = ["css/custom_style.css"]
-	customJS  = []
+[Author]
+  name = "Antonio Troina"
+  email = "thoeni@gmail.com"
+  googleplus = "+thoeni"
+  github = "thoeni"
+  twitter = "antoniotroina"
+  stackoverflow = "users/2728768/thoeni"
+  linkedin = "antoniotroina"
+  spotify = "username"
 
-	# The variables below are optionally too and can be used to
-	# translate or customize each string of the theme.
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
 
-	# Navigation links
-	home = "home"
-	about = "about"
-	subscribe = ""
-	# Pagination links
-	olderPosts = ""
-	newerPosts = ""
-	readMore = ""
-	copyright = "Deployed to PROD in 1983"
-	# Sharing options and author information in posts
-	aboutAuthor = "Deployed to PROD in 1983"
-	tweet = ""
-	share = ""
-	# 404 page
-	title404 = ""
-	subtitle404 = ""
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
 
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
-  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = "circle"
-
-# Add additional social link entries underneath
-[social]
-  twitter  = "https://www.twitter.com/antoniotroina/"
-  linkedin = "https://www.linkedin.com/in/antoniotroina"
-  github   = "https://www.github.com/thoeni"
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
