@@ -16,14 +16,14 @@ I enjoy conferences a lot, it's a great opportunity to open your mind and look a
 Here's my calendar up to date!
 
 | When                          | What                                                                                                             | Where  
-| ----------------------------- |:----------------------------------------------------------------------------------------------------------------:| -------:
+| ----------------------------- |------------------------------------------------------------------------------------------------------------------| ----------
 | 2017, November, 6th           | [DotGo](https://www.dotgo.eu/)                                                                                   | 🇫🇷 Paris    
 | 2017, October, 5th-6th        | [Software Craftsmanship Conference](http://sc-london.com)                                                        | 🇬🇧 London   
 | 2017, August, 16th-18th       | [Golang UK](https://www.golanguk.com/)                                                                           | 🇬🇧 London   
 | 2016, November, 25th-26th     | [Codemotion](http://milan2016.codemotionworld.com/)                                                              | 🇮🇹 Milan    
 | 2016, November, 7th-10th      | [Websummit 2016](https://websummit.com/)                                                                         | 🇵🇹 Lisbon   
 | 2016, August, 17th-19th       | [Golang UK](https://www.golanguk.com/)                                                                           | 🇬🇧 London   
-| 2016, June, 2nd-4th           | [SoCraTEs UK](http://socratesuk.org/)                                                                            | 🇬🇧 London   
+| 2016, June, 2nd-4th           | [SoCraTes UK](http://socratesuk.org/)                                                                            | 🇬🇧 London   
 | 2016, June, 8th-10th          | [Devoxx UK](http://www.devoxx.co.uk/)                                                                            | 🇬🇧 London   
 | 2016, January, 30th-31st      | [Fosdem](https://archive.fosdem.org/2016/)                                                                       | 🇧🇪 Brussels 
 | 2015, November, 28th          | [LJC Open Conference](https://sites.google.com/site/ljcopenconference/previous-conferences/ljc-2015-conference)  | 🇬🇧 London   

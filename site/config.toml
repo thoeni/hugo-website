@@ -12,7 +12,7 @@ googleAnalytics = "UA-74480113-1"
 disqusShortname = "thoeni-io"
 
 [params]
-	subtitle = "Another blog that the world could do without."
+	subtitle = "Another blog the world could do without."
         logo = "images/avatar.jpg"
         favicon = "images/favicon.ico"
         dateFormat = "January 2, 2006"
@@ -43,11 +43,22 @@ disqusShortname = "thoeni-io"
     weight = 2
 
 [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    weight = 3
+
+[[menu.main]]
+    parent = "projects"
+    name = "Slack Tube Service"
+    url = "/project/slack-tube-service/"
+    weight = 1
+
+[[menu.main]]
     name = "About"
     url = "/page/about"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 4
+    weight = 5
