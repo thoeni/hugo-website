@@ -1,0 +1,14 @@
+dependencies:
+  pre:
+    - go get github.com/spf13/hugo
+    - go install github.com/spf13/hugo
+
+test:
+  override:
+    - /bin/true
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - ./site/rsync.sh
