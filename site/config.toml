@@ -40,7 +40,7 @@ disqusShortname = "thoeni-io"
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Tags"
