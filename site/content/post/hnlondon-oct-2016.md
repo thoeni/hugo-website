@@ -3,8 +3,8 @@ date = "2016-10-06T20:00:00Z"
 draft = false
 title = "Hacker News London meetup, October 2016"
 description = "Report from the Hacker News Meetup held in London in October 2016"
-tags = [ "london", "tech", "dev", "engineering", "meetup" ]
-categories = [ "hacker news", "HNLondon", "tech", "dev", "engineering", "meetup" ]
+tags = [ "london", "tech", "dev", "engineering", "meetups" ]
+categories = [ "hacker news", "HNLondon", "tech", "dev", "engineering", "meetups" ]
 slug = "hacker-news-london-october-2016"
 +++
 

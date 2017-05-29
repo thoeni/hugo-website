@@ -2,7 +2,7 @@
 date = "2016-12-03T23:00:00Z"
 draft = true
 title = "The art of coding"
-description = "Art of coding"
+description = "or 'keep your art pumping"
 tags = [ "dev", "agile", "engineering", "philosophy" ]
 categories = [ "dev", "agile", "engineering" ]
 slug = "the-art-of-coding"
