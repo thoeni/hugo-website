@@ -13,7 +13,7 @@ disqusShortname = "thoeni-io"
 
 [params]
 	subtitle = "Another blog that the world could do without."
-        logo = "images/avatar@8x.png"
+        logo = "images/avatar.jpg"
         favicon = "images/favicon.ico"
         dateFormat = "January 2, 2006"
         commit = true
