@@ -4,8 +4,15 @@ hidden = true
 title = "Slack Tube Service"
 tags = [ "dev", "projects" ]
 +++
-
 *RESTful API exposing TFL data on London underground status in a slack-friendly fashion*
+
+<a href="https://github.com/thoeni/slack-tube-service" title="Slack Tube Service Github" style="color: #404040;">
+  <span class="fa-stack fa-lg">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+  </span>
+  <b>Open the project on GitHub!</b>
+</a>
 
 It all started from:
 
@@ -20,24 +27,19 @@ This is what it looks like:
 {{< figure src="https://camo.githubusercontent.com/2a3703d424db840b3304b0b80c476408428b809a/687474703a2f2f7777772e616e746f6e696f74726f696e612e636f6d2f646f776e6c6f6164732f747562652e706e67" >}}
 <center>*Example of service response within Slack*</center>
 
-Once added the integration as **slash command** con Slack, you can call from any channel or chat the `/tube [tubeLine]` command (where the `tubeLine` is optional).
-To add the integration, you need to push your **slack token** to this endpoint:
+To add the integration to your Slack team, you need to push your **slack token** to this endpoint:
 ```json
     PUT https://thoeni.io/api/slack/token/{yourToken}
 ```
-
-And the endpoint to configure as target for the **slash command** is:
+The Slack token will be generated when creating the **slash command** in the custom integrations section of your slack account.
+The endpoint to configure as target for the **slash command** is:
 ```json
     POST https://thoeni.io/api/slack/tubestatus
 ```
+Once this is done, you can call from any channel or private chat the `/tube [tubeLine]` command (where the `tubeLine` is optional). The response is not public, so the caller is the only one able to see it. Examples of valid commands are `/tube` and `/tube Bakerloo`.
 
+The service is being monitored through Grafana and Prometheus, and the infrastructure should be totally fine in most cases, but should it become overloaded I'll decide what to do.
 {{< figure src="../../images/projects/slack-tube-service/grafana-small.jpg" >}}
 <center>*Grafana dashboard monitoring the service*</center>
 
-<a href="https://github.com/thoeni/slack-tube-service" title="Slack Tube Service Github" style="color: #404040;">
-  <span class="fa-stack fa-lg">
-    <i class="fa fa-circle fa-stack-2x"></i>
-    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-  </span>
-  <b>Open the project on GitHub!</b>
-</a>
+Last but not least, the service has been developed for personal use, it's currently under active development so there might be times when it will be unavailable.
