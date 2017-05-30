@@ -28,7 +28,7 @@ To add the integration, you need to push your **slack token** to this endpoint:
 
 And the endpoint to configure as target for the **slash command** is:
 ```json
-    PUT https://thoeni.io/api/slack/tubestatus
+    POST https://thoeni.io/api/slack/tubestatus
 ```
 
 {{< figure src="../../images/projects/slack-tube-service/grafana-small.jpg" >}}

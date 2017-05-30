@@ -20,7 +20,7 @@ disqusShortname = "thoeni-io"
         rss = true
         comments = true
 	name = "Antonio Troina"
-	gcse = "000555443219246452905:kk1yklqhyf4"
+	#gcse = "000555443219246452905:kk1yklqhyf4"
 
 [Author]
   name = "Antonio Troina"
