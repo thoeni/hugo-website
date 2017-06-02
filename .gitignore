@@ -3,3 +3,5 @@ site/public
 layouts
 data
 archetypes
+aws-cfg.json
+cf-update.json

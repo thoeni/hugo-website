@@ -11,4 +11,4 @@ deployment:
   production:
     branch: master
     commands:
-      - ./site/rsync.sh
+      - ./site/s3sync.sh

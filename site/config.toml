@@ -12,15 +12,15 @@ googleAnalytics = "UA-74480113-1"
 disqusShortname = "thoeni-io"
 
 [params]
-	subtitle = "Another blog the world could do without."
-        logo = "images/avatar.jpg"
-        favicon = "images/favicon.ico"
-        dateFormat = "January 2, 2006"
-        commit = true
-        rss = true
-        comments = true
-	name = "Antonio Troina"
-	#gcse = "000555443219246452905:kk1yklqhyf4"
+    subtitle = "Another blog the world could do without."
+    logo = "images/avatar.jpg"
+    favicon = "images/favicon.ico"
+    dateFormat = "January 2, 2006"
+    commit = true
+    rss = true
+    comments = true
+    name = "Antonio Troina"
+    #gcse = "000555443219246452905:kk1yklqhyf4"
 
 [Author]
   name = "Antonio Troina"

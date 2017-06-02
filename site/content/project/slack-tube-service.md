@@ -29,12 +29,12 @@ This is what it looks like:
 
 To add the integration to your Slack team, you need to push your **slack token** to this endpoint:
 ```json
-    PUT https://thoeni.io/api/slack/token/{yourToken}
+    PUT https://services.thoeni.io/api/slack/token/{yourToken}
 ```
 The Slack token will be generated when creating the **slash command** in the custom integrations section of your slack account.
 The endpoint to configure as target for the **slash command** is:
 ```json
-    POST https://thoeni.io/api/slack/tubestatus
+    POST https://services.thoeni.io/api/slack/tubestatus
 ```
 Once this is done, you can call from any channel or private chat the `/tube [tubeLine]` command (where the `tubeLine` is optional). The response is not public, so the caller is the only one able to see it. Examples of valid commands are `/tube` and `/tube Bakerloo`.
 
