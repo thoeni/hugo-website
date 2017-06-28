@@ -22,7 +22,7 @@ So, I thought I could write a small Java class to make that specific call, and m
 If you're experiencing a similar issue, try this out (https://github.com/thoeni/inetTester) and see what happens: if the elapsed time gets close to mine, I may have a good news for you, keep reading.
 
 <h3>Solution</h3>
-As expected, the solution to all my problems was on **StackOverflow** ([check this post](http://stackoverflow.com/a/33289897/2728768)): I just had to add to my `/etc/hosts` file a mapping to the canonical `127.0.0.1` address for my laptop hostname, and now I have, for example:
+As expected, the solution to all my problems was on **StackOverflow** ([check this post](http://stackoverflow.com/a/33289897/2728768)): I just had to add to my `/etc/hosts` file a mapping to the canonical `127.0.0.1` address for my Mac hostname (which can be resolved by running the `hostname` command in a terminal), and now I have, for example:
 ```
 127.0.0.1   localhost mbpro.local
 ::1         localhost mbpro.local
