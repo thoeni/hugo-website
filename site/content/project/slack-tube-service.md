@@ -36,7 +36,12 @@ The endpoint to configure as target for the **slash command** is:
 ```json
     POST https://services.thoeni.io/api/slack/tubestatus
 ```
-Once this is done, you can call from any channel or private chat the `/tube [tubeLine]` command (where the `tubeLine` is optional). The response is not public, so the caller is the only one able to see it. Examples of valid commands are `/tube` and `/tube Bakerloo`.
+Once this is done, you can call from any channel or private chat the `/tube` command. If called without arguments it will return a brief help.
+The `/tube` command provides - at this stage - two arguments (or sub-commands) that the bot can interpret:
+
+- `/tube status [tubeLine]` (where the `tubeLine` is optional). The response is not public, so the caller is the only one able to see it. Examples of valid commands are `/tube status` and `/tube status Bakerloo`.
+
+- `/tube subscribe [tubeLine]` (here the `tubeLine` is mandatory). This will store a subscription for the user in order to allow - in the near future - tube status to be queried by username, so you can check whether your colleague `@john` is late for standup because of a tube signal failure on his line!
 
 The service is being monitored through Grafana and Prometheus, and the infrastructure should be totally fine in most cases, but should it become overloaded I'll decide what to do.
 {{< figure src="../../images/projects/slack-tube-service/grafana-small.jpg" >}}
