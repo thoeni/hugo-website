@@ -17,6 +17,7 @@ Here's my calendar up to date!
 
 | When                          | What                                                                                                             | Where  
 | ----------------------------- |------------------------------------------------------------------------------------------------------------------| ----------
+| 2018, February, 3rd-4th       | [Fosdem](https://fosdem.org/2018/)                                                                               | 🇧🇪 Brussels
 | 2017, November, 6th           | [DotGo](https://www.dotgo.eu/)                                                                                   | 🇫🇷 Paris    
 | 2017, October, 5th-6th        | [Software Craftsmanship Conference](http://sc-london.com)                                                        | 🇬🇧 London   
 | 2017, August, 16th-18th       | [Golang UK](https://www.golanguk.com/)                                                                           | 🇬🇧 London   
