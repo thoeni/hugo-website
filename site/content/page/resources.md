@@ -17,6 +17,10 @@ Here's my calendar up to date!
 
 | When                          | What                                                                                                             | Where  
 | ----------------------------- |------------------------------------------------------------------------------------------------------------------| ----------
+| 2018, October, 22nd-23rd      | [GoLab](https://golab.io/)                                                                                       | 🇮🇹 Florence
+| 2018, August, 1st-3rd         | [GopherCon UK](https://www.golanguk.com/)                                                                        | 🇬🇧 London  
+| 2018, May/June, 31st-3rd      | [GopherCon Europe](https://gophercon.is/)                                                                        | 🇮🇸 Reykjavik
+| 2018, May, 10th-11th          | [Devoxx UK](http://www.devoxx.co.uk/)                                                                            | 🇬🇧 London
 | 2018, February, 3rd-4th       | [Fosdem](https://fosdem.org/2018/)                                                                               | 🇧🇪 Brussels
 | 2017, November, 6th           | [DotGo](https://www.dotgo.eu/)                                                                                   | 🇫🇷 Paris    
 | 2017, October, 5th-6th        | [Software Craftsmanship Conference](http://sc-london.com)                                                        | 🇬🇧 London   
@@ -32,12 +36,15 @@ Here's my calendar up to date!
 | 2015, March, 27th-28th        | [Codemotion](http://rome2015.codemotionworld.com/)                                                               | 🇮🇹 Rome     
 | 2014, November, 26th-27th     | [Codemotion](http://milan2014.codemotionworld.com/)                                                              | 🇮🇹 Milan    
 
-### Meet-ups
-One of the advantages of being here in **London** is that there's at least one meet-up I'd like to attend every other day! In the last months I started helping [Alice Lloyd](https://twitter.com/scalarecruit) with [Scala Central](https://www.meetup.com/Scala-Central/), a regular meet-up organised once a month.
+### Meet-up & Community
+One of the advantages of being here in **London** is that there's at least one meet-up I'd like to attend every other day! 
+
+In August 2017 I joined the [Go London User Group](https://www.meetup.com/go-london-user-group/) organisers and we run the meetup on a monthly basis: it's been a great experience so far, and it's very interesting to see what goes on behind the scenes, and how much work is involved in organising just a single event!
+
+Other meetup I often attend are:
 
 - [Scala Central](https://www.meetup.com/Scala-Central/)
 - [London Scala User Group](https://www.meetup.com/london-scala/)
-- [Go London User Group](https://www.meetup.com/go-london-user-group/)
 - [AWS User Group UK](https://www.meetup.com/AWSUGUK/)
 - [London Microservices User Group](https://www.meetup.com/London-Microservices-User-Group/)
 - [London Software Craftsmanship Community](https://www.meetup.com/london-software-craftsmanship/)
