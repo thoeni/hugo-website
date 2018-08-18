@@ -4,10 +4,6 @@ hidden = true
 title = "About me"
 +++
 
-<div class="well">
-	<p></p><b>TL;DR</b><br/><br/><em>London based software engineer, born in Italy and raised amongst computers. Passionate gopher since 2015, eager attendee of meet-ups and conferences, Go London User Group co-organiser. When not coding I sleep; when not sleeping, I think about how I can describe myself in a few lines blurb.</em><p></p>
-</div>
-
 **Technology** and **innovation** have always been the reason behind any choice I've made throughout my life so far, including the recent - well, 2015! - decision of moving to **[London](https://www.google.co.uk/maps/place/London/@51.5285582,-0.24168,11z/data=!3m1!4b1!4m2!3m1!1s0x47d8a00baf21de75:0x52963a5addd52a99)**.
 
 Following the last few years spent as a backend developer - mainly focusing on **Java** - and in the professional services working on transformation and integration projects, I've decided to get myself into functional programming starting with **Scala**. I've been working with Scala (and Play! Framework) on a daily basis for a year now, and using **[Go](http://golang.org)** for my side projects, as I find this language fascinating and *"essential"*: I use coding in Go as a meditation technique 🙏.

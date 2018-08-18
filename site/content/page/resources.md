@@ -1,5 +1,5 @@
 +++
-date = "2017-05-29T17:30:00Z"
+date = "2018-05-29T17:30:00Z"
 hidden = true
 title = "Resources"
 tags = [ "meetups", "conferences", "books" ]
