@@ -1,0 +1,25 @@
+version: 2
+
+jobs:
+  build:
+    docker:
+      - image: golang
+    working_directory: /go/src/github.com/thoeni/hugo-website
+    steps:
+      - checkout
+      - run: git submodule sync
+      - run: git submodule update --init
+      - run:
+          name: Install Hugo
+          command: |
+            echo "deb http://ftp.debian.org/debian testing main contrib" >> /etc/apt/sources.list
+            apt-get update
+            apt-get install hugo -y
+            apt-get install python-dev python-pip -y
+            pip install awscli
+      - run:
+          name: Build and Sync
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              ./site/s3sync.sh
+            fi

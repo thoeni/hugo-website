@@ -3,6 +3,11 @@ dependencies:
     - go get github.com/spf13/hugo
     - go install github.com/spf13/hugo
 
+checkout:
+post:
+  - git submodule sync --recursive
+  - git submodule update --recursive --init
+
 test:
   override:
     - /bin/true
