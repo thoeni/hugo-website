@@ -17,6 +17,8 @@ Here's my calendar up to date!
 
 | When                          | What                                                                                                             | Where  
 | ----------------------------- |------------------------------------------------------------------------------------------------------------------| ----------
+| 2019, August, 22nd-23rd       | [GopherCon UK](https://www.gophercon.co.uk/)                                                                     | 🇬🇧 London
+| 2019, March, 25th             | [DotGo](https://www.dotgo.eu/)                                                                                   | 🇫🇷 Paris
 | 2018, October, 22nd-23rd      | [GoLab](https://golab.io/)                                                                                       | 🇮🇹 Florence
 | 2018, August, 1st-3rd         | [GopherCon UK](https://www.golanguk.com/)                                                                        | 🇬🇧 London  
 | 2018, May/June, 31st-3rd      | [GopherCon Europe](https://gophercon.is/)                                                                        | 🇮🇸 Reykjavik
