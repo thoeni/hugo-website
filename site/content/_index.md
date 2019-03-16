@@ -1,0 +1,1 @@
+<center>_London based software engineer, born in Italy and raised amongst computers. Passionate Gopher since 2015, eager attendee of meet-ups and conferences, [Go London User Group](https://www.meetup.com/Go-London-User-Group/) co-organiser. When not coding I sleep; when not sleeping, I think about how I can describe myself in a few lines blurb._</center>
