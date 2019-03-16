@@ -23,3 +23,9 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               ./site/s3sync.sh
             fi
+      - run:
+          name: Cloudfront invalidation
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths /
+            fi
