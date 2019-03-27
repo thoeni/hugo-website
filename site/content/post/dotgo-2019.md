@@ -1,7 +1,5 @@
 +++
-date = "2019-03-26T23:00:00Z"
-draft = true
-hidden = true
+date = "2019-03-27T11:00:00Z"
 title = "DotGo 2019 - Paris"
 description = "a dev from the trenches"
 tags = [ "dev", "go", "conferences" ]
@@ -384,6 +382,17 @@ shortcomings that they encountered along the way. In doing so, he also dived
 into the `unsafe` package explaining how the two interact with each other.
 
 > Hashtag **#safetyfirst**
+
+---
+
+I unfortunately missed the last two talks, but [Jessie
+Frazelle](https://twitter.com/jessfraz) and [Marcel van
+Lohuizen](https://github.com/mpvl) due to the risk of missing my last train back
+home, so if anyone wants to contribute, please do so by opening a PR on [this
+repo](https://github.com/thoeni/hugo-website/tree/master/site/content/post/dotgo-2019.md).
+
+Equally, if any speaker wants to ask for some changes or amends on anything from
+this post, feel free to contact me and I'll be happy to help. 
 
 ---
 
