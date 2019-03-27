@@ -3,7 +3,7 @@ theme = "beautifulhugo"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
-baseurl = "https://thoeni.io/"
+baseurl = "https://thoeni.io"
 canonifyurls = true
 title = "to, err := human()"
 author = "Antonio Troina"
@@ -65,5 +65,5 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Tags"
-    url = "tags"
+    url = "/tags"
     weight = 5
