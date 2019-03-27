@@ -79,13 +79,13 @@ It has hosted us for a few years, and hopefully will continue doing so.
 {{< figure src="../../images/dotGo-2019/theatre.jpg" class="medium" >}}
 
 I really like the dotGo format of a **single track conference**, with "ted-like"
-talks and quite **long breaks** to allow people to socialise without having to keep
-an eye on the watch not to miss the next talk. In addition to this, the
+talks and quite **long breaks** to allow people to socialise without having to
+keep an eye on the watch not to miss the next talk. In addition to this, the
 organisers kindly encouraged the audience **not to use any laptop - and ideally
-any phone -** and just enjoy the talks. Having long breaks between the talk
-sessions it is definitely easy to do as everyone has time to catch up with
-their digital alter-ego during the break, and enjoy the conference and the talks
-the rest of the time.
+any phone -** and just enjoy the talks: this is made easier by long breaks
+between the talk sessions, as everyone has time to catch up with their digital
+alter-ego during the break, and enjoy the conference and the talks the rest of
+the time.
 
 Another interesting aspect of the conference is that the attendees will only
 know which speakers will take part to the event, but nothing about their talks.
@@ -309,7 +309,7 @@ massively reduce the footprint of the file, from MB to KB. He also briefly
 explained what the limitation in TinyGo are right now, and encouraged the
 participation to the Gophers Slack channels `#webassembly` and `#tinygo`.
 
-> Hashtag **#goanywhere**
+> Hashtag **#wecangoanywhere**
 
 ### Tuning Go GC Parameters ([Bryan Boreham](https://twitter.com/bboreham))
 [slides coming soon]
@@ -389,7 +389,8 @@ into the `unsafe` package explaining how the two interact with each other.
 
 # Summary
 
-This was my second dotGo, and I'm already looking forward to the 2020 edition.
+This was my second dotGo, and I'm already looking forward to the [next
+edition](https://2020.dotgo.eu/), on March 30th, 2020!
 
 A final thank you to the **organisers** of the conference - we all know how
 stressful this can be - and to the **speakers** who performed bringing their
@@ -398,4 +399,4 @@ but not least, to **everyone** who showed up, some from the other side of the
 city, some from the other side of the world. It's been a pleasure spending this
 day with you all, and I look forward to crossing paths with you again.
 
-Until then, farewell, and don't panic().
+Until then, farewell, and don't `panic()`!
