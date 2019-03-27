@@ -10,6 +10,10 @@ author = "Antonio Troina"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 googleAnalytics = "UA-74480113-1"
 disqusShortname = "thoeni-io"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [params]
     subtitle = "Another blog the world could do without."
@@ -18,8 +22,9 @@ disqusShortname = "thoeni-io"
     dateFormat = "January 2, 2006"
     commit = true
     rss = true
+    socialShare = true
     comments = true
-    name = "Antonio Troina"
+    readingTime = true
     #gcse = "000555443219246452905:kk1yklqhyf4"
 
 [Author]
@@ -27,7 +32,7 @@ disqusShortname = "thoeni-io"
   email = "thoeni@gmail.com"
   googleplus = "+thoeni"
   github = "thoeni"
-  twitter = "antoniotroina"
+  twitter = "londongopher_"
   stackoverflow = "users/2728768/thoeni"
   linkedin = "antoniotroina"
   spotify = "1110847262"

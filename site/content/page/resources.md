@@ -5,13 +5,20 @@ title = "Resources"
 tags = [ "meetups", "conferences", "books" ]
 +++
 
-Eager conferences and meet-ups _**goer**_, I believe that every developer should nurture his/her passion as much as he/she can.
-Meet-ups and conferences are a great way of doing it, and books, tutorials, articles... these days we have so many resources available that a lifetime wouldn't be enough in order to explore all of them!
+Eager conferences and meet-ups _**goer**_, I believe that every developer should
+nurture his/her passion as much as he/she can. Meet-ups and conferences are a
+great way of doing it, and books, tutorials, articles... these days we have so
+many resources available that a lifetime wouldn't be enough in order to explore
+all of them!
 
-So, here's me **to the rescue**, I'll share resources I find useful, those being events, books or anything in between.
+So, here's me **to the rescue**, I'll share resources I find useful, those being
+events, books or anything in between.
 
 ### Conferences
-I enjoy conferences a lot, it's a great opportunity to open your mind and look at things from a completely different perspective. I especially enjoy the feeling of coming back home full of ideas and inspiration for my - current or - next projects! 
+I enjoy conferences a lot, it's a great opportunity to open your mind and look
+at things from a completely different perspective. I especially enjoy the
+feeling of coming back home full of ideas and inspiration for my - current or -
+next projects!
 
 Here's my calendar up to date!
 
@@ -39,9 +46,14 @@ Here's my calendar up to date!
 | 2014, November, 26th-27th     | [Codemotion](http://milan2014.codemotionworld.com/)                                                              | 🇮🇹 Milan    
 
 ### Meet-up & Community
-One of the advantages of being here in **London** is that there's at least one meet-up I'd like to attend every other day! 
+One of the advantages of being here in **London** is that there's at least one
+meet-up I'd like to attend every other day!
 
-In August 2017 I joined the [Go London User Group](https://www.meetup.com/go-london-user-group/) organisers and we run the meetup on a monthly basis: it's been a great experience so far, and it's very interesting to see what goes on behind the scenes, and how much work is involved in organising just a single event!
+In August 2017 I joined the [Go London User
+Group](https://www.meetup.com/go-london-user-group/) organisers and we run the
+meetup on a monthly basis: it's been a great experience so far, and it's very
+interesting to see what goes on behind the scenes, and how much work is involved
+in organising just a single event!
 
 Other meetup I often attend are:
 
@@ -52,7 +64,11 @@ Other meetup I often attend are:
 - [London Software Craftsmanship Community](https://www.meetup.com/london-software-craftsmanship/)
 
 ### Blog posts/articles
-Too many, I know. I'm not a regular reader of any specific blog, I just happen to see someone sharing a link and often finding it insightful... in which case I might want to share it here.
+Too many, I know. I'm not a regular reader of any specific blog, I just happen
+to see someone sharing a link and often finding it insightful... in which case I
+might want to share it here.
 
 ### Books
-I often start reading multiple books simultaneously - I'm not proud of it, but sometimes I get over excited! - but I thought this would be worth sharing as well 
+I often start reading multiple books simultaneously - I'm not proud of it, but
+sometimes I get over excited! - but I thought this would be worth sharing as
+well
