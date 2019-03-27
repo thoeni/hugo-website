@@ -53,9 +53,9 @@ arrondissement](https://goo.gl/maps/YbpY6i5KhrC2) where the venue that would
 host the ["Bring the cool back in the
 cloud"](https://www.meetup.com/Golang-Paris/events/259677022/) was.
 
-It's been great to hang out with the Paris Go community, very interesting
-lightning talks in a welcoming venue with top notch organic blanche beer 🍻 to
-quench our thirst, and french baguette 🥖, cheese 🧀 and jam to keep us fed.
+It was great to hang out with the Paris Go community; very interesting lightning
+talks in a welcoming venue with top notch organic blanche beer 🍻 to quench our
+thirst, and french baguette 🥖, cheese 🧀 and jam to keep us well nourished.
 
 A collection of moments from the night is 👇
 
