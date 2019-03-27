@@ -385,7 +385,7 @@ into the `unsafe` package explaining how the two interact with each other.
 
 ---
 
-I unfortunately missed the last two talks, but [Jessie
+I unfortunately missed the last two talks, by [Jessie
 Frazelle](https://twitter.com/jessfraz) and [Marcel van
 Lohuizen](https://github.com/mpvl) due to the risk of missing my last train back
 home, so if anyone wants to contribute, please do so by opening a PR on [this
