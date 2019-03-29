@@ -310,7 +310,7 @@ participation to the Gophers Slack channels `#webassembly` and `#tinygo`.
 > Hashtag **#wecangoanywhere**
 
 ### Tuning Go GC Parameters ([Bryan Boreham](https://twitter.com/bboreham))
-[slides coming soon]
+[[slides]](https://www.slideshare.net/weaveworks/tune-your-go-garbagecollector)
 
 Go, as opposed to Java/JVM, doesn't offer many options to tune the Garbage
 Collector. In fact it only offers one, opportunely named `GOGC`. This variable
