@@ -211,7 +211,7 @@ Olivier introduced us to the ONNX open format and the onnx-go implementation.
 > Hashtag **#🧠**
 
 ### ⚡️ TensorFlow and Go ([Natalie Pistunovich](https://twitter.com/NataliePis))
-[[slides coming soon]](https://github.com/pisush)
+[[slides coming soon]](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-paris.pdf)
 
 I met Natalie a few times at previous Go conferences, I believe the first time
 was Fosdem a few years ago, and then of course in Iceland as she's the organiser
